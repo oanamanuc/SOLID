@@ -11,5 +11,6 @@
     <orderEntry type="library" name="almworks.sqlite4java1" level="project" />
     <orderEntry type="library" name="app.cash.sqldelight.sqlite.json.module" level="project" />
     <orderEntry type="library" name="ops4j.pax.jdbc.sqlite" level="project" />
+    <orderEntry type="library" name="xerial.sqlite.jdbc" level="project" />
   </component>
 </module>
